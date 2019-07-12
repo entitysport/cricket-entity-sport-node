@@ -26,4 +26,4 @@ for get data for all players call get_players_data(pid=0,args) for get data for 
 
 If you do not send the id(like sid,cid ,mid ,tid,pid) than you get all data other perticular id info. args = {per_page:10 ,paged:20); where paged is which page u wana get data
 
-**/ important when your token is expire. Than call entity.cricket.update_token('YOUR_API_KEY','YOUR_SECRET_KEY') and get new token and expire copy them.**/ 
+important when your token is expire. Than call entity.cricket.update_token('YOUR_API_KEY','YOUR_SECRET_KEY') and get new token and expire copy them.
