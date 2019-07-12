@@ -1,0 +1,30 @@
+{
+    "name": "entity_cricket",
+    "version": "1.0.0",
+    "description": "Official Node SDK for Cricket Entity Sport API",
+    "main": "index.js",
+    "keywords": [
+        "node",
+        "nodejs",
+        "Cricket",
+        "entity"
+      ],
+      "files": [
+        "dist"
+      ],
+      "devDependencies": {
+        "babel-cli": "^6.14.0",
+        "babel-preset-es2015": "^6.14.0",
+        "babel-preset-stage-0": "^6.5.0",
+        "babel-register": "^6.18.0",
+        "chai": "^4.1.2",
+        "deep-equal": "^1.0.1",
+        "mocha": "^5.2.0",
+        "nock": "^9.3.3"
+      },
+      "dependencies": {
+        "promise": "^8.0.1",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.2"
+      }
+}
